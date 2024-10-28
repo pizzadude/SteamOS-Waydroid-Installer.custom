@@ -1,4 +1,6 @@
 #!/bin/bash
+#taken from https://github.com/slynobody/SteamOS-Waydroid-Installer
+
 clear
 
 sudo steamos-readonly disable
